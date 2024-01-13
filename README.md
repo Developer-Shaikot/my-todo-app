@@ -1,36 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Titan Settlers
+
+<div>
+  <img src="https://res.cloudinary.com/hostingimagesservice/image/upload/v1705133713/my-todo/Screenshot_841_ibaard.png" alt="Image 1" style="width:48%; border: 1px solid black; margin-right: 2px; display:inline-block;">
+  <img src="https://res.cloudinary.com/hostingimagesservice/image/upload/v1705133713/my-todo/Screenshot_843_mgutxm.png" alt="Image 2" style="width:48%; border: 1px solid black; display:inline-block;">
+  <img src="https://res.cloudinary.com/hostingimagesservice/image/upload/v1705133713/my-todo/Screenshot_844_dvu7sp.png" alt="Image 1" style="width:48%; border: 1px solid black; margin-right: 2px; display:inline-block;">
+</div>
+
+### Local Storage Data
+---
+
+<img src='https://res.cloudinary.com/hostingimagesservice/image/upload/v1705134246/my-todo/Screenshot_845_smunzg.png'>
+<hr>
 
 ## Getting Started
 
-First, run the development server:
+### Developer guide
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+-   Clone the project in your local machine
+-   Install all the dependencies using `npm install`
+-   Use `npm run dev` to run your client
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Contact
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+If you have any questions or suggestions, please feel free to reach out to me at
+[shaikotkunduakash@gmail.com](mailto:shaikotkunduakash@gmail.com) 
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Thank you, let's learn together.
