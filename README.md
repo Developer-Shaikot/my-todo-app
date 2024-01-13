@@ -1,4 +1,4 @@
-# Titan Settlers
+# my-todo-app
 
 <div>
   <img src="https://res.cloudinary.com/hostingimagesservice/image/upload/v1705133713/my-todo/Screenshot_841_ibaard.png" alt="Image 1" style="width:48%; border: 1px solid black; margin-right: 2px; display:inline-block;">
